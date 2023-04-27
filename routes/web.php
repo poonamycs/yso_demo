@@ -1,5 +1,5 @@
 <?php
-
+//routes
 use App\Http\Livewire\Accordion;
 use App\Http\Livewire\Alerts;
 use App\Http\Livewire\Avatar;
